@@ -1,2 +1,2 @@
 # exthingspace
-Verizon - ThingSpace client library for Elixir
+Verizon - ThingSpace client library for Elixir - In Works
